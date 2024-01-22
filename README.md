@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @strawberries73
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning react hooks
-- 💞️ I’m looking to collaborate on Javascript and Java
+- 👀 I’m working towards full stack development in my role as Sr. Dev
+- 🌱 I’m currently learning Advance T-SQL
+- 💞️ I’m looking to collaborate on Javascript and .Net
 - 📫 Reach me at strawberries73@outlook.com
 
 <!---
